@@ -109,22 +109,6 @@ export const posts: Post[] = [
     },
   },
   {
-    slug: 'construire-pour-lafrique',
-    date: '2026-09-11',
-    status: 'scheduled',
-    colour: 'var(--gold)',
-    gradient: 'linear-gradient(120deg,var(--gold),var(--coral))',
-    category: { en: 'Africa', fr: 'Afrique' },
-    title: {
-      en: 'Building from Canada for African users: what the data actually demands',
-      fr: "Concevoir depuis le Canada pour des utilisateurs africains : ce que les données exigent réellement",
-    },
-    excerpt: {
-      en: 'Bandwidth, device class, data cost and language. Lessons from putting a 2,206-record directory online for Cameroon.',
-      fr: "Bande passante, gamme d'appareils, coût des données et langue. Leçons tirées de la mise en ligne d'un annuaire de 2 206 fiches pour le Cameroun.",
-    },
-  },
-  {
     slug: 'automatiser-quoi-dabord',
     date: '2026-09-12',
     status: 'scheduled',

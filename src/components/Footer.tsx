@@ -22,7 +22,7 @@ export default function Footer({ locale }: { locale: Locale }) {
         <div>
           <h4>{t('productsTitle')}</h4>
           <a href="https://carpoolwork.ca" target="_blank" rel="noopener noreferrer">CarpoolWork</a>
-          <a href="https://www.ecoles-primaires-cameroun.com" target="_blank" rel="noopener noreferrer">Écoles Primaires Cameroun</a>
+          <a href="https://franchir.app" target="_blank" rel="noopener noreferrer">Franchir</a>
           <Link href={`/${locale}/work`}>{nav('work')}</Link>
         </div>
         <div>

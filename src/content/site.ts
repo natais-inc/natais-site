@@ -41,18 +41,6 @@ export const products: {
     ],
   },
   {
-    slug: 'ecoles',
-    name: 'Écoles Primaires Cameroun',
-    colour: 'var(--coral)',
-    status: 'live',
-    url: 'https://www.ecoles-primaires-cameroun.com',
-    label: 'ecoles-primaires-cameroun.com',
-    metrics: [
-      { n: '2 206', key: 'schools' },
-      { n: '360', key: 'municipalities' },
-    ],
-  },
-  {
     slug: 'franchir',
     name: 'Franchir',
     colour: 'var(--indigo)',
